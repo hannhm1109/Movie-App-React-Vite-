@@ -1,0 +1,36 @@
+.movie {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.movie-poster {
+  margin-left: 20px;
+  width: 150px;
+  height: 225px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.movie-info {
+  flex: 1;
+}
+
+.movie-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.movie-release-date {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.movie-overview {
+  margin-bottom: 10px;
+}
+
+.movie-rating {
+  font-size: 18px;
+  font-weight: bold;
+}
