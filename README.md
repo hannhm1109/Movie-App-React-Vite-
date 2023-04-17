@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-###This will start the app in development mode and open it in your browser at http://localhost:3000.
+### This will start the app in development mode and open it in your browser at http://localhost:3000.
 
 # Features
 
