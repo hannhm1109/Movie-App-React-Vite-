@@ -11,7 +11,7 @@ cd movie-app
 npm install
 ```
 
-###To start the app, run the following command:
+### To start the app, run the following command:
 
 ```bash
 npm run dev
@@ -25,16 +25,18 @@ npm run dev
 * View details of a specific movie, including its title, release date, and summary
 * Search for movies by title (Not yet)
 
-#Technologies Used
+# Technologies Used
 
 * React
 * Vite
 * The Movie Database (TMDB) API
 
 
-#Contributing
-###Contributions to the project are welcome! If you find a bug or have a feature request, please open an issue. 
-###If you would like to contribute code, please fork the repository and submit a pull request.
+# Contributing
 
-#Acknowledgements
-###Thanks to The Movie Database (TMDB) for providing the API used in this app.
+### Contributions to the project are welcome! If you find a bug or have a feature request, please open an issue. 
+### If you would like to contribute code, please fork the repository and submit a pull request.
+
+# Acknowledgements
+
+### Thanks to The Movie Database (TMDB) for providing the API used in this app.
