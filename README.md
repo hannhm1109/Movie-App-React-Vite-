@@ -1,11 +1,10 @@
-#Movie App
+# Movie App
 
-###This is a simple movie app that uses React and Vite. The app displays a list of popular movies from The Movie Database (TMDB).
-###I haven't Added search functionality yet but it's under development.
+### This is a simple movie app that uses React and Vite. The app displays a list of popular movies from The Movie Database (TMDB).
+### I haven't added search functionality yet but it's under development.
 
-#Getting Started
-###To get started, clone this repository and install the necessary dependencies:
-
+## Getting Started
+### To get started, clone this repository and install the necessary dependencies:
 ```bash
 git clone <repository-url>
 cd movie-app
